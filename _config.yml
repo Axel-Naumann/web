@@ -299,3 +299,5 @@ collections:
     output: true
   ideas:
     output: true
+
+theme: jekyll-theme-cayman
